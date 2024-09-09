@@ -12,3 +12,19 @@ function exercicio(){
     })
 }
 console.log(exercicio())
+
+//Recebendo um objeto e não um array,
+function exercicio2(){
+    const obj={
+        SP:67836.43,
+        RJ:36678.66,
+        MG:29229.88,
+        ES:27165.48,
+        Outros:9849.53
+    }
+    let sum = Object.values(obj).reduce((acc,curr)=>acc+curr,0);
+    return Object.keys(obj).map((e)=>{
+        return{[e]:`${((obj[e]/sum)*100).toFixed(0)}%`}
+    })
+}
+console.log(exercicio2())
