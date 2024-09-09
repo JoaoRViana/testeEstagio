@@ -1,0 +1,36 @@
+{
+    "faturamento_diario": [
+      {"dia": 1, "valor": 1200.50},
+      {"dia": 2, "valor": 1500.30},
+      {"dia": 3, "valor": null},  
+      {"dia": 4, "valor": null},  
+      {"dia": 5, "valor": 800.00},
+      {"dia": 6, "valor": 1000.00},
+      {"dia": 7, "valor": 500.00},
+      {"dia": 8, "valor": 1200.00},
+      {"dia": 9, "valor": 3000.00},
+      {"dia": 10, "valor": 2500.00},
+      {"dia": 11, "valor": null},  
+      {"dia": 12, "valor": 1600.00},
+      {"dia": 13, "valor": 2000.00},
+      {"dia": 14, "valor": 1800.00},
+      {"dia": 15, "valor": 1000.00},
+      {"dia": 16, "valor": 900.00},
+      {"dia": 17, "valor": 2200.00},
+      {"dia": 18, "valor": 1400.00},
+      {"dia": 19, "valor": null},  
+      {"dia": 20, "valor": null},
+      {"dia": 21, "valor": 1900.00},
+      {"dia": 22, "valor": 2500.00},
+      {"dia": 23, "valor": 2700.00},
+      {"dia": 24, "valor": 1800.00},
+      {"dia": 25, "valor": 2200.00},
+      {"dia": 26, "valor": 2100.00},
+      {"dia": 27, "valor": null},
+      {"dia": 28, "valor": 900.00},
+      {"dia": 29, "valor": 1300.00},
+      {"dia": 30, "valor": 1700.00},
+      {"dia": 31, "valor": null} 
+    ]
+  }
+  
